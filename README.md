@@ -173,7 +173,7 @@ RockBees/
 
 #### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/anishvyapari/RockBees.git
+git clone https://github.com/SolvyrEryx/RockBees.git
 cd RockBees
 ```
 
@@ -587,7 +587,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ### Get Help
 - **Documentation**: Read [docs/](docs/) for detailed guides
-- **Issues**: Check [GitHub Issues]([https://github.com/anishvyapari/RockBees/issues](https://github.com/SolvyrEryx/rockbees-colony-monitoring-and-honey-ai/issues))
+- **Issues**: Check [GitHub Issues]([https://github.com/SolvyrEryx/RockBees/issues](https://github.com/SolvyrEryx/rockbees-colony-monitoring-and-honey-ai/issues))
 - **Email**: rahuljaiprakashden@gmail.com
 
 ### Report Bugs
