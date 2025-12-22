@@ -20,7 +20,7 @@
 
 Check out website(beta build) https://solvyreryx.github.io/rockbees-colony-monitoring-and-honey-ai/
 
-## 🎯 Problem Statement
+## 🎯 Problem Statement.
 
 **The Challenge:**
 - 🌍 **Global Crisis**: Bee colonies worldwide face threats from pesticides, climate change, and habitat loss
