@@ -571,17 +571,11 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ## 👥 Team & Authors
 
-**Project Lead**: RAHUL JAIPRAKASH 
+**Project By**: RAHUL JAIPRAKASH and Team
 **Institution**: CMRIT BANGLORE
 **Field**: Bachelor of Technology (Computer Science - AI/DS Specialization)
 
-### Key Contributors
-- 🔬 **ML/AI Development**: Specialization in detection & classification models
-- 🌐 **Backend Development**: FastAPI, PostgreSQL, real-time systems
-- 📱 **Frontend Development**: React, React Native, UI/UX design
-- 🏗️ **DevOps & Infrastructure**: Docker, Kubernetes, CI/CD
 
----
 
 ## 🆘 Support & Community
 
@@ -607,14 +601,7 @@ Submit feature requests with:
 
 ---
 
-## 🙏 Acknowledgments
 
-- **Open Source**: TensorFlow, OpenCV, YOLOv8, FastAPI communities
-- **Data**: Public datasets from [InsectClassification](https://example.com), beekeeping research publications
-- **Inspiration**: Global bee conservation efforts and sustainable agriculture initiatives
-- **Mentorship**: Faculty advisors and industry experts
-
----
 
 ## 🔐 Security & Privacy
 
