@@ -1,6 +1,5 @@
 # 🐝 RockBees: AI-Powered Colony Detection & Honey Authenticity Verification
 
-Check out website(beta build) https://solvyreryx.github.io/rockbees-colony-monitoring-and-honey-ai/
 
 <div align="center">
 
@@ -18,6 +17,8 @@ Check out website(beta build) https://solvyreryx.github.io/rockbees-colony-monit
 </div>
 
 ---
+
+Check out website(beta build) https://solvyreryx.github.io/rockbees-colony-monitoring-and-honey-ai/
 
 ## 🎯 Problem Statement
 
