@@ -6,11 +6,7 @@
 ## Executive Summary
 
 **Project Name:** RockBees  
-**Category:** AI/ML + IoT + Computer Vision  
-**Problem Domain:** Agricultural Technology (AgTech) & Environmental Conservation  
-**Institution:** RAIT/DYPatil College, Navi Mumbai  
-**Submission Date:** December 2025  
-**Current Status:** Stage 1 - MVP Ready
+ **Current Status:** Stage 1 - MVP Ready
 
 ### One-Line Pitch
 *An intelligent, integrated platform combining AI-powered rock bee colony detection with GPS tracking and honey purity verification through image analysis to revolutionize sustainable beekeeping.*
